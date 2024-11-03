@@ -1,0 +1,20 @@
+E:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.AssemblyReference.cache
+E:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.SuggestedBindingRedirects.cache
+E:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+E:\CMPE1300\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+E:\CMPE1300\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+E:\CMPE1300\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+E:\CMPE1300\Lab 4\Lab 4\bin\Debug\GDIDrawer.dll
+E:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CopyComplete
+E:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+E:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+D:\CMPE1300\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+D:\CMPE1300\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+D:\CMPE1300\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+D:\CMPE1300\Lab 4\Lab 4\bin\Debug\GDIDrawer.dll
+D:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.AssemblyReference.cache
+D:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.SuggestedBindingRedirects.cache
+D:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+D:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CopyComplete
+D:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+D:\CMPE1300\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
